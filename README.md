@@ -22,5 +22,5 @@
 
 ----
 
-#### Ozcan Yarimdunya @2src/018
+#### Ozcan Yarimdunya @2018
 [Website](http://semiworld.org)
